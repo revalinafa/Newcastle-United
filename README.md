@@ -1,4 +1,4 @@
-# ⚫ RESPONSI 1 CLUB NEWCASTLE FC ⚫  
+# RESPONSI 1 CLUB NEWCASTLE UNITED FC 
 **Nama:** Revalina Fidiya Anugrah  
 **NIM:** H1D023011  
 **Shift Awal:** D  
@@ -86,4 +86,5 @@ Ikon aplikasi menggunakan **logo Newcastle United FC** dengan latar belakang ses
 
 ### 💬 “Howay the Lads!”  
 Aplikasi ini dibuat sebagai bentuk penerapan materi praktikum dan dedikasi untuk klub **Newcastle United FC**.
+
 
