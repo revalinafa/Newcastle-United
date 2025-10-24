@@ -48,7 +48,8 @@
         android:layout_width="match_parent"
         android:layout_height="0dp"
         android:padding="6dp"
-        app:layout_constraintTop_toBottomOf="@id/iv_stadium">
+        app:layout_constraintTop_toBottomOf="@id/iv_stadium"
+        android:background="#EBF0F5">
         <androidx.constraintlayout.widget.ConstraintLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content">
