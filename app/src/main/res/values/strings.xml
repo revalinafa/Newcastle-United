@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Responsi 1 Mobile H1D023011</string>
+    <string name="club_name">67. Newcastle United FC</string>
+    <string name="club_name_history">Newcastle United FC History</string>
+    <string name="club_desk">Newcastle United Football Club is a professional football club based in Newcastle upon Tyne, England. The club competes in the Premier League, the top tier of English football. Founded in 1892 by the merger of Newcastle East End and Newcastle West End, the team has played its home matches at St James Park ever since. Newcastle has a passionate fan base and a historic rivalry with Sunderland, known as the Tyne–Wear derby.</string>
+    <string name="club_history">"Newcastle United was formed in 1892 through the merger of two local clubs, Newcastle East End and Newcastle West End. The new club adopted the black and white striped shirts that remain iconic today, and began playing at St James' Park, which has remained their home ground for more than a century.
+
+        In their early years, Newcastle quickly rose through the ranks of English football, winning the First Division title three times in the 1900s (1905, 1907, and 1909) and reaching several FA Cup finals. Their attacking style of play and loyal supporters made them one of England’s most recognized clubs.
+
+        The post-war era saw further success, including FA Cup victories in 1951, 1952, and 1955. Newcastle continued to produce legendary players such as Jackie Milburn, Malcolm Macdonald, and later Alan Shearer—the club’s all-time top scorer.
+
+        Despite periods of relegation and promotion, Newcastle remains one of the most popular clubs in England, known for its passionate supporters, historic ground, and identity as a one-club city. The club returned to the Premier League and entered a new era of ambition following its 2021 acquisition by a consortium led by the Public Investment Fund of Saudi Arabia, with Eddie Howe appointed as head coach."</string>
+    <string name="history">Club History</string>
+    <string name="coach">Head Coach</string>
+    <string name="squad">Team Squad</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
