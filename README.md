@@ -67,6 +67,10 @@ Ikon aplikasi menggunakan **logo Newcastle United FC** dengan latar belakang ses
 ## 📸 Video Demo Aplikasi
 🔗 
 
+https://github.com/user-attachments/assets/0bb7ce9d-d53d-4eef-8997-c1451fc09631
+
+
+
 ---
 
 ## 🛠️ Teknologi yang Digunakan
@@ -86,5 +90,6 @@ Ikon aplikasi menggunakan **logo Newcastle United FC** dengan latar belakang ses
 
 ### 💬 “Howay the Lads!”  
 Aplikasi ini dibuat sebagai bentuk penerapan materi praktikum dan dedikasi untuk klub **Newcastle United FC**.
+
 
 
